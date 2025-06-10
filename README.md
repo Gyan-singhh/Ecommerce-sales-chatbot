@@ -102,7 +102,7 @@ JWT_SECRET_KEY=supersecretkey123
 
 # for frontend
 
-FRONTEND_URL=http://localhost:5173
+VITE_API_BASE_URL=your backend base url
 
 # Run server
 
